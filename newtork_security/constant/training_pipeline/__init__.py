@@ -8,8 +8,8 @@ PIPELINE_NAME:str="Network_Security"
 ARTIFACTS_DIR:str="artifacts"
 FILE_NAME:str="phisingData.csv"
 
-TRAINING_FILE_NAME:str="train.csv"
-TESTING_FILE_NAME:str="test.csv"
+DATA_INGESTION_TRAINING_FILE_NAME:str="train.csv"
+DATA_INGESTION_TESTING_FILE_NAME:str="test.csv"
 
 DATA_INGESTION_COLLECTION_NAME:str="Network_security"
 DATA_INGESTION_DATABASE_NAME:str="Pushkar_db"
