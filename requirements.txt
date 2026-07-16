@@ -6,4 +6,6 @@ matplotlib
 python-dotenv
 pymongo
 certifi
+dill
+pyaml
 # -e .
